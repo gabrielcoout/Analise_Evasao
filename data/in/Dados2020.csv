@@ -1,0 +1,82 @@
+Instituto/Curso, Turno,Tipo, Cancelamento por Reopção, Decurso de Prazo Máximo para Conclusão de Curso, Desistência, Prescrito, Transferência para Outra IES, Total
+Desenvolvimento Rural , V,BIO,0,0,2,0,0,2
+Biomedicina , I,BIO,2,0,4,0,0,6
+Biotecnologia , V,BIO,1,1,4,0,0,6
+Ciências Biológicas , V,BIO,1,2,2,0,0,5
+Ciências Biológicas , N,BIO,2,1,6,0,0,9
+Engenharia de Bioprocessos , V,BIO,1,0,3,0,0,4
+Artes Visuais , V,HUM,0,2,0,0,0,2
+Artes Visuais , V,HUM,0,0,2,0,0,2
+Cinema e Audiovisual , M,HUM,0,0,5,0,0,5
+Dança , M,HUM,1,0,0,0,0,1
+Museologia , M,HUM,0,0,3,0,0,3
+Música , V,HUM,0,2,1,0,0,3
+Produção Multimídia , N,HUM,2,6,1,0,0,9
+Teatro , N,HUM,0,3,4,0,0,7
+Educação Física , M,HUM,0,3,0,0,0,3
+Pedagogia , N,HUM,3,3,14,0,0,20
+Enfermagem , I,BIO,2,0,12,0,0,14
+Farmácia , I,BIO,1,0,4,0,0,5
+Fisioterapia , I,BIO,2,0,6,0,0,8
+Medicina , I,BIO,0,0,2,0,0,2
+Nutrição , I,BIO,0,0,4,0,0,4
+Odontologia , V,BIO,2,1,9,0,0,12
+Terapia Ocupacional , M,BIO,1,0,3,0,0,4
+Ciência da Computação , V,EXATAS,1,4,3,0,0,8
+Ciências Naturais , M,BIO,3,0,7,0,0,10
+Estatística , V,EXATAS,4,2,5,0,0,11
+Física , M,EXATAS,0,0,2,0,0,2
+Física , N,EXATAS,3,4,25,0,0,32
+Matemática , M,EXATAS,2,4,10,0,0,16
+Química , V,EXATAS,0,0,8,0,0,8
+Química , M,EXATAS,3,3,6,0,0,12
+Química Industrial , V,EXATAS,3,0,1,0,0,4
+Sistemas de Informação , N,EXATAS,2,4,5,0,0,11
+Direito , N,HUM,2,0,13,0,0,15
+Administração , I,HUM,0,0,3,0,0,3
+Administração , M,HUM,2,6,6,0,0,14
+Administração , I,HUM,0,1,0,0,0,1
+Administração , I,HUM,0,0,1,0,0,1
+Administração , I,HUM,0,0,1,0,0,1
+Arquivologia , V,HUM,1,1,3,0,0,5
+Biblioteconomia , N,HUM,4,2,2,0,0,8
+Ciências Contábeis , V,HUM,0,1,9,0,0,10
+Economia , N,HUM,0,0,6,0,0,6
+Serviço Social , N,HUM,1,0,5,0,0,6
+Turismo , M,HUM,2,4,2,0,0,8
+Turismo , I,HUM,0,0,3,0,0,3
+Licenciatura Integrada em Ciências, N,HUM,6,3,9,0,0,18
+Ciências Sociais , M,HUM,2,1,1,0,0,4
+Ciências Sociais , N,HUM,1,8,4,2,0,15
+Filosofia , I,HUM,0,1,3,0,0,4
+Filosofia , I,HUM,1,5,3,0,0,9
+Geografia , M,HUM,2,0,2,0,0,4
+Geografia , M,HUM,1,2,9,0,0,12
+História , M,HUM,0,0,1,0,0,1
+História , N,HUM,3,2,3,0,0,8
+História , I,HUM,0,0,2,0,0,2
+Psicologia - Formação do Psicólogo , V,HUM,0,26,1,0,0,27
+Geofísica , I,EXATAS,1,0,4,0,0,5
+Geologia , I,EXATAS,2,1,4,0,0,7
+Meteorologia , M,EXATAS,1,0,9,0,0,10
+Oceanografia , I,EXATAS,0,1,5,0,0,6
+Comunicação Social - Jornalismo , M,HUM,1,1,5,1,0,8
+Letras - Alemão , M,HUM,0,0,10,0,0,10
+Letras - Espanhol , N,HUM,1,1,2,0,0,4
+Letras - Francês , M,HUM,1,1,1,0,0,3
+Letras - Inglês , M,HUM,2,3,9,0,0,14
+Letras - Língua Portuguesa , M,HUM,2,3,8,0,0,13
+Arquitetura e Urbanismo , M,HUM,2,2,5,0,0,9
+Conservação e Restauro , M,HUM,0,0,1,0,0,1
+Engenharia Biomédica , I,EXATAS,3,0,7,0,0,10
+Engenharia Civil , N,EXATAS,5,1,20,0,0,26
+Engenharia Civil , M,EXATAS,0,1,0,0,0,1
+Engenharia da Computação , M,EXATAS,2,10,8,0,0,20
+Engenharia de Alimentos , M,EXATAS,5,1,5,0,1,12
+Engenharia de Telecomunicações , M,EXATAS,2,1,6,0,0,9
+Engenharia Elétrica , I,EXATAS,2,1,14,0,0,17
+Engenharia Ferroviária e Logística , V,EXATAS,0,0,3,0,0,3
+Engenharia Mec, M,EXATAS,4,1,9,0,0,14
+Engenharia Naval , M,EXATAS,0,0,3,0,0,3
+Engenharia Química , N,EXATAS,6,5,11,0,0,22
+Engenharia Sanitária e Ambiental , M,EXATAS,2,2,6,0,1,11

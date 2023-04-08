@@ -1,0 +1,82 @@
+Instituto/Curso,Tipo, Canc.por Reopção, Decurso de Prazo Máximo P/ Conclusão de Curso, Desistência, Prescrito, Transferência para outra IES, Transferência Interna (administrativa), Total geral
+Desenvolvimento Rural (Bacharelado),BIO,1,0,12,0,0,0,13
+Biomedicina (Bacharelado),BIO,1,0,5,0,0,0,6
+Biotecnologia (Bacharelado),BIO,2,0,8,0,0,0,10
+Ciências Biológicas (Bacharelado),BIO,1,0,5,0,0,0,6
+Ciências Biológicas (Licenciatura),BIO,0,0,10,0,0,0,10
+Engenharia de Bioprocessos (Bacharelado),BIO,0,0,5,0,0,0,5
+Artes Visuais (Bacharelado),HUM,0,0,1,0,0,0,1
+Artes Visuais (Licenciatura),HUM,3,0,4,0,0,0,7
+Cinema e Audiovisual (Bacharelado),HUM,1,0,2,0,0,0,3
+Dança (Licenciatura),HUM,1,0,2,0,0,0,3
+Museologia (Bacharelado),HUM,1,0,1,0,0,0,2
+Produção Cênica (Tecnlógico),HUM,0,0,3,0,0,0,3
+Produção Multimídia (Tecnlógico),HUM,0,0,3,0,0,0,3
+Teatro (Licenciatura),HUM,2,0,4,0,0,0,6
+Educação Física (Licenciatura),HUM,1,0,1,0,0,0,2
+Pedagogia (Licenciatura),HUM,0,0,15,0,1,0,16
+Enfermagem (Bacharelado),BIO,2,0,9,0,0,0,11
+Farmácia (Bacharelado),BIO,0,0,14,0,0,0,14
+Fisioterapia (Bacharelado),BIO,0,0,8,0,0,0,8
+Medicina (Bacharelado),BIO,0,0,5,0,0,1,6
+Odontologia (Bacharelado),BIO,3,0,10,0,0,0,13
+Terapia Ocupacional (Bacharelado),BIO,1,0,6,0,0,0,7
+Ciência da Computação (Bacharelado),EXATAS,1,0,3,0,0,0,4
+Ciências Naturais (Licenciatura),BIO,1,0,17,0,0,0,18
+Estatística (Bacharelado),EXATAS,0,0,8,0,0,0,8
+Física (Licenciatura),EXATAS,0,0,5,0,0,0,5
+Física (Bacharelado),EXATAS,1,0,8,0,0,0,9
+Física (Licenciatura),EXATAS,5,0,22,0,0,0,27
+Matemática (Licenciatura),EXATAS,2,0,20,0,0,0,22
+Química (Bacharelado),EXATAS,2,0,2,0,0,0,4
+Química (Licenciatura),EXATAS,0,0,9,0,0,0,9
+Química Industrial (Bacharelado),EXATAS,3,0,8,0,0,0,11
+Sistemas de Informação (Bacharelado),EXATAS,1,0,5,0,0,0,6
+Direito (Bacharelado),HUM,0,0,11,0,2,0,13
+Administração (Bacharelado) ,HUM,5,0,16,0,0,0,21
+Arquivologia (Bacharelado),HUM,2,0,4,0,0,0,6
+Biblioteconomia (Bacharelado),HUM,1,0,13,0,0,0,14
+Ciências Contábeis (Bacharelado),HUM,1,0,14,0,0,0,15
+Ciências Contábeis (Bacharelado) - Intensivo,HUM,0,0,0,0,0,1,1
+Economia (Bacharelado),HUM,0,0,22,0,0,0,22
+Serviço Social (Bacharelado),HUM,2,0,19,0,0,0,21
+Turismo (Bacharelado),HUM,5,0,20,0,0,0,25
+Licenciatura Integrada em Ciências Matemática e Linguagens,HUM,0,0,3,0,0,0,3
+Licenciatura Integrada em Ciências Matemática e Linguagens,HUM,0,0,4,0,0,0,4
+Ciências Sociais (Licenciatura),HUM,0,0,4,1,0,0,5
+Ciências Sociais (Bacharelado),HUM,2,0,7,0,0,0,9
+Ciências Sociais (Licenciatura),HUM,1,1,6,0,0,0,8
+Filosofia (Licenciatura),HUM,0,0,2,0,0,0,2
+Filosofia (Bacharelado),HUM,2,0,1,0,0,0,3
+Filosofia (Licenciatura),HUM,2,0,9,0,0,0,11
+Geografia (Bacharelado),HUM,1,0,4,0,0,0,5
+Geografia (Licenciatura),HUM,1,0,4,0,0,0,5
+História (Bacharelado),HUM,1,0,6,0,0,0,7
+História (Licenciatura),HUM,1,5,6,0,0,0,12
+História Mosqueiro (Licenciatura),HUM,0,0,2,0,0,0,2
+Psicologia -Formação do Psicólogo (Bacharelado) ,HUM,1,0,4,0,0,0,5
+Geofísica (Bacharelado),EXATAS,4,0,15,0,0,0,19
+Geologia (Bacharelado),EXATAS,3,0,9,0,0,0,12
+Meteorologia (Bacharelado),EXATAS,4,1,11,0,0,0,16
+Oceanografia (Bacharelado),EXATAS,1,0,5,0,0,0,6
+Comunicação Social - Jornalismo (Bacharelado) ,HUM,2,0,1,0,0,0,3
+Comunicação Social - Publicidade e Propaganda (Bacharelado) ,HUM,2,0,3,0,0,0,5
+Letras – Almão (Licenciatura),HUM,1,0,9,0,0,0,12
+Letras - Espanhol (Licenciatura),HUM,1,0,3,0,0,0,4
+Letras - Francês (Licenciatura),HUM,3,0,2,0,0,0,5
+Letras - Inglês (Licenciatura),HUM,5,0,6,0,0,0,11
+Letras - Libras - Intensivo (Licenciatura),HUM,1,0,2,0,0,0,3
+Letras - Língua Portuguesa (Licenciatura),HUM,3,0,19,0,0,0,22
+Arquitetura e Urbanismo (Bacharelado),HUM,2,0,4,0,0,0,6
+Conservação e Restauro (Bacharelado),HUM,0,0,5,0,0,0,5
+Engenharia Biomédica (Bacharelado),EXATAS,3,0,7,0,0,0,10
+Engenharia Civil (Bacharelado),EXATAS,1,0,21,0,1,0,23
+Engenharia da Computação (Bacharelado) ,EXATAS,2,0,10,0,0,0,12
+Engenharia de Alimentos (Bacharelado),EXATAS,3,0,5,0,0,0,8
+Engenharia de Telecomunicações (Bacharelado) ,EXATAS,1,0,14,0,0,0,15
+Engenharia Elétrica (Bacharelado),EXATAS,0,0,13,0,0,0,13
+Engenharia Ferroviária e Logística (Bacharelado),EXATAS,2,0,3,0,0,0,5
+Engenharia Mecânica (Bacharelado) ,EXATAS,4,0,17,0,0,0,21
+Engenharia Naval (Bacharelado),EXATAS,0,0,3,0,1,0,4
+Engenharia Química (Bacharelado),EXATAS,3,0,12,0,0,0,15
+Engenharia Sanitária e Ambiental (Bacharelado),EXATAS,2,0,15,0,0,0,17

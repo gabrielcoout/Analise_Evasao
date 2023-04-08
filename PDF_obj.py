@@ -62,7 +62,8 @@ class PDF:
             string_csv = []
             for element in range(n):
                 data = list_matches[element][1].split(' ')
-                i = list_matches[element][0]+','+', '.join(data)+'\n'
+                i = list_matches[element][0]+','.join(data)+'\n'
+
                 string_csv.append(i)
             return string_csv
     
