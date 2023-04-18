@@ -82,4 +82,3 @@ class PDF:
 
 if __name__ == '__main__':
     pass
-
