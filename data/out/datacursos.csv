@@ -1,66 +1,65 @@
-,2014,2015,2016,2017,2018,2019,2020,2021
-Cinema e Audiovisual,10,5,2,27,22,11,5,3
-Dança,23,1,2,16,15,3,1,3
-Educação Artística,2,0,0,0,0,0,0,0
-Museologia,24,4,3,10,42,5,3,2
-Música,27,6,5,3,31,9,3,0
-Teatro,20,2,1,7,23,11,7,6
-Biomedicina,15,9,2,17,33,9,6,6
-Biotecnologia,18,15,1,3,28,6,6,10
-Ciências Biológicas,54,20,13,64,43,27,14,16
-Educação Física,19,7,8,17,14,12,3,2
-Pedagogia,131,20,10,81,73,56,20,16
-Ciência da Computação,46,13,7,39,23,18,8,4
-Ciências Naturais,33,16,11,38,37,21,10,18
-Estatística,58,15,10,15,86,14,11,8
-Física,113,59,33,60,232,58,37,43
-Matemática,109,32,23,109,161,45,34,29
-Química,101,77,45,50,240,45,46,39
-Química Industrial,18,7,3,11,52,9,4,11
-Sistemas de Informação,18,10,6,53,31,14,11,6
-Direito,34,30,8,40,188,29,15,13
-Enfermagem,46,12,12,21,40,20,14,11
-Farmácia,91,14,3,32,62,9,5,14
-Fisioterapia,1,4,2,5,25,5,8,8
-Medicina,8,6,1,51,10,6,2,6
-Nutrição,37,8,7,9,44,15,4,0
-Odontologia,47,26,11,40,45,17,12,13
-Administração,48,18,6,24,213,23,20,21
-Arquivologia,2,5,2,15,22,8,5,6
-Biblioteconomia,21,10,37,20,54,15,8,14
-Ciências Contábeis,60,18,22,91,76,19,10,16
-Serviço Social,23,12,32,65,60,17,6,21
-Turismo,54,22,19,27,130,40,11,25
-Licenciatura Integrada em Educação em Ciências Matemática e Linguagens,12,1,7,14,71,20,18,7
-Ciências Sociais,78,25,15,107,96,36,19,22
-Filosofia,44,19,3,50,33,21,13,16
-Geografia,46,11,14,13,121,43,16,10
-Psicologia,32,18,5,11,120,54,27,5
-Geofísica,11,17,15,27,38,11,5,19
-Geologia,13,13,27,21,24,11,7,12
-Meteorologia,26,18,17,89,36,12,10,16
-Oceanografia,13,21,12,50,12,7,6,6
-Comunicação Social,22,11,3,6,39,9,8,8
-Letras,108,156,32,65,374,78,44,57
-Engenharia Civil,78,29,19,34,216,43,27,23
-Engenharia da Computação,44,33,18,24,134,56,20,12
-Engenharia de Alimentos,16,22,8,12,60,12,12,8
-Engenharia de Telecomunicações,2,12,9,10,37,20,9,15
-Engenharia Elétrica,65,27,9,17,94,33,17,13
-Engenharia Mecânica,100,15,11,29,74,28,14,21
-Engenharia Naval,8,5,5,14,25,7,3,4
-Engenharia Química,32,43,26,23,105,16,22,15
-Engenharia Sanitária,22,23,28,42,24,16,11,17
-Engenharia Sanitária e Ambiental,13,16,28,42,24,16,11,17
-Engenharia Ferroviária e Logística,3,4,6,9,5,5,3,5
-Engenharia Biomédica,7,14,9,11,22,15,10,10
-Artes Visuais,18,7,2,33,20,9,4,8
-Terapia Ocupacional,7,5,0,1,15,5,4,7
-Arquitetura e Urbanismo,13,17,7,9,63,8,9,6
-Engenharia de Bioprocessos,0,0,3,4,12,6,4,5
-História,69,24,5,25,104,19,11,23
-Desenvolvimento Rural,0,0,0,0,0,2,2,13
-Produção Multimídia,0,2,2,10,24,8,9,3
-Economia,59,39,12,0,91,20,6,22
-Conservação e Restauro,0,0,0,0,0,0,1,5
-Produção Cênica,0,0,0,0,0,0,0,3
+,Tipo,2014,2015,2016,2017,2018,2019,2020,2021
+Cinema e Audiovisual,HUM,10,5,2,27,22,11,5,3
+Dança,HUM,23,1,2,16,15,3,1,3
+Museologia,HUM,24,4,3,10,42,5,3,2
+Música,HUM,27,6,5,3,31,9,3,0
+Teatro,HUM,20,2,1,7,23,11,7,6
+Biomedicina,BIO,15,9,2,17,33,9,6,6
+Biotecnologia,BIO,18,15,1,3,28,6,6,10
+Ciências Biológicas,BIO,54,20,13,64,43,27,14,16
+Educação Física,HUM,19,7,8,17,14,12,3,2
+Pedagogia,HUM,131,20,10,81,73,56,20,16
+Ciência da Computação,EXATAS,46,13,7,39,23,18,8,4
+Ciências Naturais,EXATAS,33,16,11,38,37,21,10,18
+Estatística,EXATAS,58,15,10,15,86,14,11,8
+Física,EXATAS,94,52,25,43,218,46,34,41
+Matemática,EXATAS,97,32,16,95,90,25,16,22
+Química,EXATAS,51,27,16,16,83,20,20,13
+Química Industrial,EXATAS,18,7,3,11,52,9,4,11
+Sistemas de Informação,EXATAS,18,10,6,53,31,14,11,6
+Direito,HUM,34,30,8,40,188,29,15,13
+Enfermagem,BIO,46,12,12,21,40,20,14,11
+Farmácia,BIO,91,14,3,32,62,9,5,14
+Fisioterapia,BIO,1,4,2,5,25,5,8,8
+Medicina,BIO,8,6,1,51,10,6,2,6
+Nutrição,BIO,37,8,7,9,44,15,4,0
+Odontologia,BIO,47,26,11,40,45,17,12,13
+Administração,HUM,48,18,6,24,213,23,20,21
+Arquivologia,HUM,2,5,2,15,22,8,5,6
+Biblioteconomia,HUM,21,10,37,20,54,15,8,14
+Ciências Contábeis,HUM,60,18,22,91,76,19,10,16
+Serviço Social,HUM,23,12,32,65,60,17,6,21
+Turismo,HUM,54,22,19,27,130,40,11,25
+Licenciatura Integrada em Educação em Ciências Matemática e Linguagens,HUM,12,21,7,14,71,20,18,7
+Ciências Sociais,HUM,78,25,15,107,96,29,19,22
+Filosofia,HUM,44,19,3,50,33,21,13,16
+Geografia,HUM,46,11,14,13,121,43,16,10
+História,HUM,69,24,5,25,104,19,11,23
+Psicologia,HUM,28,18,5,11,120,54,27,5
+Geofísica,EXATAS,11,17,15,27,38,11,5,19
+Geologia,EXATAS,13,13,27,21,24,11,7,12
+Meteorologia,EXATAS,26,18,17,89,36,12,10,16
+Oceanografia,EXATAS,13,21,12,50,12,7,6,6
+Comunicação Social,HUM,22,11,3,6,39,9,8,8
+Letras,HUM,108,156,32,65,374,78,44,57
+Engenharia Civil,EXATAS,78,29,19,34,216,43,27,23
+Engenharia da Computação,EXATAS,44,33,18,24,134,56,20,12
+Engenharia de Alimentos,EXATAS,16,22,8,12,60,12,12,8
+Engenharia de Telecomunicações,EXATAS,2,12,9,10,37,20,9,15
+Engenharia Elétrica,EXATAS,65,27,9,17,94,33,17,13
+Engenharia Mecânica,EXATAS,100,15,11,29,74,28,14,21
+Engenharia Naval,EXATAS,8,5,5,14,25,7,3,4
+Engenharia Química,EXATAS,32,43,26,23,105,16,22,15
+Engenharia Sanitária,EXATAS,9,7,0,0,0,0,0,0
+Engenharia Sanitária e Ambiental,EXATAS,13,16,28,42,24,16,11,17
+Engenharia Ferroviária e Logística,EXATAS,3,4,6,9,5,5,3,5
+Engenharia Biomédica,EXATAS,7,14,9,11,22,15,10,10
+Artes Visuais,HUM,18,7,2,33,20,9,4,8
+Terapia Ocupacional,BIO,7,5,0,1,15,5,4,7
+Arquitetura e Urbanismo,HUM,13,17,7,9,63,8,9,6
+Engenharia de Bioprocessos,HUM,0,0,3,4,12,6,4,5
+Desenvolvimento Rural,BIO,0,0,0,0,0,2,2,13
+Produção Multimídia,HUM,0,2,1,5,12,8,9,3
+Economia,HUM,59,39,12,184,91,20,6,22
+Conservação e Restauro,HUM,0,0,0,0,0,0,1,5
+Produção Cênica,HUM,0,0,0,0,0,0,0,3
