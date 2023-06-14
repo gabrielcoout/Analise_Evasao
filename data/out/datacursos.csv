@@ -22,7 +22,7 @@ Enfermagem,BIO,46,12,12,21,40,20,14,11
 Farmácia,BIO,91,14,3,32,62,9,5,14
 Fisioterapia,BIO,1,4,2,5,25,5,8,8
 Medicina,BIO,8,6,1,51,10,6,2,6
-Nutrição,BIO,37,8,7,9,44,15,4,0
+Nutrição,BIO,37,8,7,9,44,15,4,12
 Odontologia,BIO,47,26,11,40,45,17,12,13
 Administração,HUM,48,18,6,24,213,23,20,21
 Arquivologia,HUM,2,5,2,15,22,8,5,6
@@ -34,14 +34,14 @@ Licenciatura Integrada em Educação em Ciências Matemática e Linguagens,HUM,1
 Ciências Sociais,HUM,78,25,15,107,96,29,19,22
 Filosofia,HUM,44,19,3,50,33,21,13,16
 Geografia,HUM,46,11,14,13,121,43,16,10
-História,HUM,69,24,5,25,104,19,11,23
+História,HUM,69,24,5,25,104,19,11,21
 Psicologia,HUM,28,18,5,11,120,54,27,5
 Geofísica,EXATAS,11,17,15,27,38,11,5,19
 Geologia,EXATAS,13,13,27,21,24,11,7,12
 Meteorologia,EXATAS,26,18,17,89,36,12,10,16
 Oceanografia,EXATAS,13,21,12,50,12,7,6,6
 Comunicação Social,HUM,22,11,3,6,39,9,8,8
-Letras,HUM,108,156,32,65,374,78,44,57
+Letras,HUM,108,156,32,65,374,78,44,55
 Engenharia Civil,EXATAS,78,29,19,34,216,43,27,23
 Engenharia da Computação,EXATAS,44,33,18,24,134,56,20,12
 Engenharia de Alimentos,EXATAS,16,22,8,12,60,12,12,8
@@ -57,9 +57,10 @@ Engenharia Biomédica,EXATAS,7,14,9,11,22,15,10,10
 Artes Visuais,HUM,18,7,2,33,20,9,4,8
 Terapia Ocupacional,BIO,7,5,0,1,15,5,4,7
 Arquitetura e Urbanismo,HUM,13,17,7,9,63,8,9,6
-Engenharia de Bioprocessos,HUM,0,0,3,4,12,6,4,5
+Engenharia de Bioprocessos,BIO,0,0,3,4,12,6,4,5
 Desenvolvimento Rural,BIO,0,0,0,0,0,2,2,13
 Produção Multimídia,HUM,0,2,1,5,12,8,9,3
 Economia,HUM,59,39,12,184,91,20,6,22
 Conservação e Restauro,HUM,0,0,0,0,0,0,1,5
 Produção Cênica,HUM,0,0,0,0,0,0,0,3
+Educação Artística,HUM,0,0,0,0,0,0,0,0
